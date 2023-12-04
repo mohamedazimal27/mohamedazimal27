@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mohamedazimal27
-- 👀 I’m interested in Object Oriented Industrial Programming, Machine vision, PLC, Robots and IoT
+- 👀 I’m interested in modern industrial software developement, machine vision, PLC, Robots and IoT
 
 
 <!---
