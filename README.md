@@ -64,17 +64,28 @@ I work at the intersection of **industrial machines, robots, control systems, an
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| **[ROS 2 Warehouse AMR](https://github.com/mohamedazimal27)** | Autonomous mobile robot simulation with SLAM, localization & navigation | ROS 2, Gazebo, Nav2 |
-| **[TwinCAT Elevator Control](https://github.com/mohamedazimal27)** | 2-elevator dispatch system with TwinSAFE, HMI & safety FBs | TwinCAT 3, EtherCAT, ST |
-| **[AI Automation Workflows](https://github.com/mohamedazimal27)** | Practical LLM + API automation using Python & n8n | Python, REST APIs, n8n |
+| **[ROS 2 Warehouse AMR](https://github.com/mohamedazimal27/amr_robot)** | Autonomous mobile robot simulation with SLAM, localization & navigation | ROS 2, Gazebo, Nav2 |
+| **[TwinCAT Elevator Control](https://github.com/mohamedazimal27/ElevatorControlSystem)** | 2-elevator dispatch system with TwinSAFE, HMI & safety FBs | TwinCAT 3, EtherCAT, ST |
 
 ---
 
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="./profile/github-stats.svg" height="180" alt="GitHub Stats" />
-  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedazimal27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedazimal27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedazimal27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamedazimal27&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohamedazimal27/mohamedazimal27/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
