@@ -72,12 +72,12 @@ I work at the intersection of **industrial machines, robots, control systems, an
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedazimal27&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedazimal27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
+  <img src="stats.svg" height="180" alt="GitHub Stats" />
+  <img src="top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedazimal27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak" />
+  <img src="streak.svg" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -87,7 +87,6 @@ I work at the intersection of **industrial machines, robots, control systems, an
 <p align="center">
   <img src="https://raw.githubusercontent.com/mohamedazimal27/mohamedazimal27/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
 ---
 
 ## 📈 Experience Snapshot
