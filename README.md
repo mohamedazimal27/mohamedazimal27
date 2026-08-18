@@ -73,7 +73,6 @@ I work at the intersection of **industrial machines, robots, control systems, an
 
 <p align="center">
   <img src="stats.svg" height="180" alt="GitHub Stats" />
-  <img src="top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 <p align="center">
