@@ -72,15 +72,9 @@ I work at the intersection of **industrial machines, robots, control systems, an
 
 ## 📊 GitHub Activity
 
-<!-- Replace YOUR_VERCEL_DOMAIN after self-hosting, or remove if using fallback -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedazimal27&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedazimal27&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180" alt="Top Languages" />
-</p>
-
-<!-- Fallback: GitHub's native contribution graph (always works) -->
-<p align="center">
-  <img src="https://github.com/mohamedazimal27/mohamedazimal27/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="./profile/github-stats.svg" height="180" alt="GitHub Stats" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ---
